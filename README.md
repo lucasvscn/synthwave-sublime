@@ -1,2 +1,3 @@
-# synthwave-sublime
-Synthwave inspired colour theme for Sublime Text
+# SynthWave '84 - Sublime Text
+
+Converted from [SynthWave '84 - VS Code](https://github.com/robb0wen/synthwave-vscode)
